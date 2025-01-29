@@ -11,5 +11,5 @@ public class forLoopClass {
     }
 }
 
-//In the above code. we have to declare variable s outside the loop and we are using same after the loop.
+//In the above code. we have to declare variable s outside the loop as we are using same after the loop.
 //If we had declared the variable s within the loop then we could not used it outside the loop.
